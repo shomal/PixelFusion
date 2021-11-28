@@ -10,7 +10,9 @@ returns a list of all items in arrayA that matches the sum of any two items in a
 
 ## How to run:
 
-Clone this project into a folder and navigate to the folder.
-Run 'npm start' in terminal to install dependencies
-Run 'npm test' in terminal to run the unit tests.
-Dependencies: Jest: 27.3.1
+1. Clone this project into a folder and navigate to the folder.
+2. Run 'npm start' in terminal to install dependencies
+3. Run 'npm test' in terminal to run the unit tests.
+
+Dependencies: 
+Jest: 27.3.1
