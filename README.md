@@ -6,7 +6,9 @@ Sum checker script to check for sums in Array A from given items in Array B.
 Write a function that takes two arrays of unique integers, arrayA and arrayB, and
 returns a list of all items in arrayA that matches the sum of any two items in arrayB
 
-[File Structure]
+
+![project file structure](https://github.com/shomal/PixelFusion/blob/master/file_structure.PNG?raw=true)
+
 
 ## How to run:
 
